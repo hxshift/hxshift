@@ -34,7 +34,7 @@
 
 ## `$ whoami`
 
-I'm Abhinav, a developer interested in the intersection of Machine Learning, Artificial Intelligence, and Cybersecurity.
+I'm a developer interested in the intersection of Machine Learning, Artificial Intelligence, and Cybersecurity.
 
 - 🔭 Currently working on **Zero Trust Federated Learning**
 - 🌱 Exploring **Agentic AI and intelligent autonomous systems**
