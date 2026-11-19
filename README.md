@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Website-hxshift.com-161b22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
   <a href="mailto:hxshift@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-hxshift%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
 </p>
 
